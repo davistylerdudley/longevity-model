@@ -1,0 +1,535 @@
+The question
+The curve
+Progress
+Who gets it
+The spread
+Uncertainty
+What changes
+Your story
+Read the scenario →
+
+A LONGEVITY PROJECTION MODEL
+
+If aging were solved,
+how long would you live?
+
+Most people guess an extra few decades. The math, run on real mortality data, gives a stranger answer: centuries, a real chance at forever, and a gap between people measured in lifetimes.
+
+Start with the math
+Read the scenario
+→
+
+PUT YOURSELF IN IT
+
+The model will draw your line through every chart and end with a story about how your life might run.
+
+What should we call you?
+Where do you live?
+United States
+Japan
+United Kingdom
+Germany
+France
+Sweden
+Switzerland
+Canada
+Australia
+South Korea
+Singapore
+Italy
+Spain
+China
+Brazil
+Mexico
+India
+Russia
+South Africa
+Nigeria
+Indonesia
+Egypt
+United Arab Emirates
+Somewhere else
+
+Sets your baseline risk and how soon the therapy likely reaches you.
+
+Your age
+35
+18
+85
+Aging solved by
+2045
+2028
+2100
+
+You still have to survive ordinary aging until it reaches you, so these two matter as much as anything.
+
+Your income, relative to your country
+Lower income
+Top earners
+How exposed is your daily life to accidents and violence?
+Very safe
+High exposure
+
+Job safety, how much you drive, your neighborhood, drinking or substance use. Once aging is solved, these everyday risks are what remain.
+
+Build my projection
+
+Nothing you enter leaves your browser.
+
+01
+Start with a simpler question
+
+Not “can we live forever?” but “if old age stopped killing people, what would, and how long would that take?”
+
+Picture a healthy 30-year-old whose body never gets older. A car, a new virus, a fire can still kill them. So the question is not whether they die. It is how long a person lasts once the slow, reliable killer is gone and only the sudden ones remain.
+
+That question has a clean answer. If your yearly chance of dying from those sudden causes is a flat number p, your lifespan follows an exponential curve, and the average comes out to 1/p.
+
+Plug in today's US rate for accidents, violence, and disease, and the answer is not 90, or 150. It is more than a thousand years.
+
+US NON-AGING BACKGROUND MORTALITY
+p ≈ 0.0009 per year
+average = 1/p ≈ 1,100 years
+median = ln(2)/p ≈ 770 years
+
+Not a forecast. Just what today's data implies once you remove the part that comes from getting old.
+
+Could this actually happen?
+
+Aging has stopped looking like a fact of life and started looking like an engineering problem. The “hallmarks of aging” framework breaks it into about a dozen measurable, targetable mechanisms (López-Otín et al., Cell 2013/2023). Some are already reversible in animals: partial reprogramming extended the remaining life of already-old mice by ~109% (Macip et al., 2024). In June 2026 the first human was dosed with a partial reprogramming therapy, in one eye, safety as the endpoint (Life Biosciences, ER-100). Money has followed: $1B into Retro, $130M into NewLimit, $2.1B into Isomorphic. Demographers push back, and fairly: Olshansky et al. find life-expectancy gains slowing in the longest-lived countries, which is exactly why only slowing aging itself would matter.
+
+The second ingredient is speed. AlphaFold solved a fifty-year protein problem and earned the 2024 Nobel Prize in Chemistry. Since 2024 the length of task a model can finish unassisted has been doubling every three to four months (METR 2026); Gemini hit gold-medal standard at the 2025 Mathematical Olympiad; and rentosertib, whose target and molecule were both AI-nominated, reached Phase 3 in July 2026. Amodei argues powerful AI could compress fifty to a hundred years of biomedical progress into five to ten. That is contested, and the AI Futures Project pushed its own median for automated AI research out to the early 2030s in December 2025. Even that slower pace bends the curves below.
+
+Sources: López-Otín C et al., Cell 2013 & 2023. Macip CC et al., Cellular Reprogramming 2024. Jumper J et al., Nature 2021; Nobel Prize in Chemistry 2024. Amodei D, Machines of Loving Grace (2024). Olshansky SJ et al., Nature Aging 2024. Life Biosciences, ER-100 first patient dosed (2026). METR, Time Horizon 1.1 (2026). AI Futures Project, Dec 2025 model update.
+
+THE SCENARIO · 2025–2048
+
+Escape Velocity
+
+How it could actually happen, year by year, told as a story with a live scoreboard. Documented where it can be. Forecast where it must be.
+
+Read it
+→
+
+THREE THINGS TO WATCH FOR
+
+01
+
+The average lies
+
+A thousand-year average means an unlucky slice still dies within a century and a lucky slice runs for thousands of years. The spread is the story.
+
+02
+
+The ground keeps moving
+
+Accidents and epidemics have been getting rarer for a century. Keep that up and “very long life” turns into a real chance of not dying at all.
+
+03
+
+Some of this is guesswork
+
+Today’s death rates are measured well. How people behave over centuries, and who gets treated first, are not. The model keeps the two apart.
+
+02
+Meet the curve
+
+One line, falling from 100% toward zero: of everyone alive today, what share is still here after this many years? For now, assume the world stops improving. Section 03 turns progress back on.
+
+Read it like this: pick year 200 on the bottom axis. The line's height there is the share of people still alive. Under normal aging that line is near zero by 120. With aging solved it is still high centuries later. Fill in the form above to add your own line.
+
+POPULATION MODEL
+
+Shapes the blue line. Your red line comes from the form above.
+
+Aging scenario
+Slowed Aging
+Slows, never fully stops
+Halted Aging
+Stops at a held age
+Reversed Aging
+Reset to a youthful baseline
+Biological age it holds at
+30y
+20y
+60y
+Background mortality (p₀)
+0.090%/yr
+0.020%/yr
+0.500%/yr
+Risk profile
+Ultra-Low Risk (0.3×)
+Low Risk (0.6×)
+Moderate Risk (1×)
+Elevated Risk (2.5×)
+Extreme Risk (8×)
+
+US average resident.
+
+HIGH
+Accidents, suicide, homicide: CDC NVSS 2024
+MEDIUM
+Infectious disease: GBD 2019; CDC 2024
+LOW
+Medical error: BMJ 2016 (contested)
+
+EXPECTED LIFE
+
+1,111y
+
+US average
+
+MEDIAN LIFE
+
+770y
+
+half outlive this
+
+SURVIVE FOREVER
+
+0.0%
+
+frozen world: none
+
+DIE BEFORE 100
+
+8.6%
+
+the unlucky slice
+
+What makes up that background rate?
+03
+Now let the world keep improving
+
+Section 02 froze today’s risks in place. That is the pessimistic case. Here is what happens when they keep falling, the way they actually have.
+
+Cars in the 1950s killed people at several times today's rate per mile. Then seatbelts, airbags, better roads, and soon cars that brake on their own. The same trip got safer every decade. Imagine that steady improvement across every cause of death at once. Something surprising happens to the curve: it stops falling to zero.
+
+This is not wishful thinking. US deaths from infectious disease fell 98% between 1900 and 2019. Road deaths per mile fell 97% since the 1920s. Workplace deaths fell 91% since 1970.
+
+When background risk keeps shrinking at some yearly rate r, the survival line levels off at a floor above zero. Everyone above that floor never dies of anything: the risks run out before their luck does. Pick a scenario and watch which curve lifts.
+
+TIME-VARYING SURVIVAL
+p(t) = p₀ · e−r·t
+S(t) = exp(−p₀/r · (1 − e−r·t))
+THE FLOOR
+S(∞) = exp(−p₀/r)
+FOUR RATES OF PROGRESS
+Static (no improvement)
+0% never die
+
+The frozen world. No further improvement.
+
+Moderate (0.5%/yr)
+84% never die
+
+r = 0.5%/yr, about the pace of car-safety gains.
+
+Aggressive (2%/yr)
+96% never die
+
+r = 2%/yr, the pace of 20th-century disease control.
+
+LEV Threshold
+50% never die
+
+r = 0.130%/yr, just enough for half to make it.
+
+THE TIPPING POINT HAS A NAME
+
+Longevity escape velocity
+
+Aubrey de Grey's term for the moment life expectancy grows faster than time passes. In this model it is simply the improvement rate at which the floor crosses 50%, so more than half of people never die of any cause. For a US resident that is only about 0.13% a year, slower than the car-safety gains of the last century.
+
+Rate needed
+
+0.130%/yr
+
+Share who make it
+
+50.0%
+
+For comparison
+
+Vehicle safety improved ~1–1.5%/yr historically.
+
+Sources: National Safety Council, Injury Facts 2023; Bureau of Labor Statistics (workplace fatalities); de Grey ADNJ, Rae M. Ending Aging. 2007.
+
+04
+Who gets it, and when
+
+No treatment arrives everywhere at once. The gap between first in line and last is where this stops being a math problem and becomes a human one.
+
+Two people, same age, same year the therapy is invented. One affords it on day one. The other waits fifty years for the price to fall. Under normal aging, a fifty-year wait costs fifty years near the end, when the body is already failing. Under solved aging, that same wait is fifty years spent at your physical peak, still exposed to the old risks. Same delay, completely different price.
+
+Every big medical advance has spread the same way: wealthy early adopters first, then a slow trickle down over years or decades. CAR-T cancer therapy, approved in 2017, still costs $350,000 to $500,000. MRI took 10 to 15 years to reach the general public.
+
+The live example is GLP-1. The WHO added semaglutide to its Essential Medicines List in September 2025 and generics launched in India in March 2026 at roughly $14 a month, while US and EU patents run into the 2030s. That is a 5-to-8-year rich-to-poor lag on a drug everyone already wants, and it is the delay this model assumes. Access can also run backwards: the 2025 PEPFAR funding freeze interrupted HIV treatment for millions.
+
+The model treats access as a delay: how many years after launch each income group gets in. Slide it and watch the gap open. It does not open by years. It opens by centuries.
+
+At this setting
+
+30 points
+
+Gap in the chance of never dying: top group 84% vs bottom 53%. With progress on, the top group's median is unbounded, so the gap is not in years but in whether you die at all.
+
+Max access delay (bottom group)
+50y
+5y
+80y
+CHANCE OF NEVER DYING, BY INCOME GROUP
+Top 20% (Q5)
+83.5%
+day one
+Upper-Middle (Q4)
+78.1%
++8y
+Middle (Q3)
+69.8%
++20y
+Lower-Middle (Q2)
+61.0%
++35y
+Bottom 20% (Q1)
+53.3%
++50y
+
+Confidence: low. Delays are anchored to CAR-T and gene-therapy precedents. Real timelines would hinge on politics as much as price. Sources: Bach PB, NEJM 2009; Chetty R et al. JAMA 2016; Dwyer-Lindgren L et al., Lancet 2024; Case A & Deaton A, Am J Epidemiol 2025; WHO Essential Medicines List 2025.
+
+Bottom
+waits 50y
+53% forever
+Lower-Middle
+waits 35y
+61% forever
+Middle
+waits 20y
+70% forever
+Upper-Middle
+waits 8y
+78% forever
+Top
+gets it first
+84% forever
+05
+The average hides the story
+
+A thousand-year average sounds clean. Almost nobody lives an average life. Who dies when is where it gets interesting, and uncomfortable.
+
+A thousand people step into this world together, all 30, aging switched off. A century later about a hundred are gone, lost to the same accidents and illnesses that take people today. The other nine hundred have barely aged. A few thousand years on, a handful are still walking around, having outlived empires. That whole spread hides behind the word “average.”
+
+The chart below shows the chance of dying at each age. The area under any stretch is the odds of dying in that window. Note the long tail to the right: a small slice runs for thousands of years.
+
+At the current settings
+
+83.5%
+
+of people never die of any cause. Their line never reaches zero.
+
+Chance of dying before…
+Year 100
+6.8%
+Year 500
+15.2%
+Year 1,000
+16.4%
+Year 2,000
+16.5%
+Slow risks add up suicide, US rate 13.7/100k/yr
+
+A risk that is tiny in one year is large across a thousand. That is arithmetic, not a claim about anyone's mind.
+
+By year 100
+1.4%
+By year 500
+6.6%
+By year 1,000
+12.8%
+
+Whether that rate holds over such spans is unknown; Section 06 treats it as open. CDC NVSS 2024; WHO 2021.
+
+10th pct
+
+176y
+
+90% outlive
+
+25th pct
+
+∞
+
+never dies
+
+50th pct
+
+∞
+
+never dies
+
+75th pct
+
+∞
+
+never dies
+
+90th pct
+
+∞
+
+never dies
+
+06
+Which number are we most wrong about?
+
+A model is only as good as its shakiest input. If one assumption is off, which one moves the answer most, and where is the evidence thinnest?
+
+Nudge each input up and down by half and see how far the answer moves. The bars below do that for the chance of surviving indefinitely. The longest bar is the input that matters most.
+
+Each parameter is nudged ±50% from its base value. The bar shows how far that moves the chance of surviving indefinitely: red is the downside swing, blue the upside. A wider total bar means the model leans harder on that input.
+
+Downside swing (lowers survival)
+Upside swing (raises survival)
+
+FOUR THINGS THE MODEL WILL NOT PRETEND TO KNOW
+
+What happens to a mind over centuries?
+SPECULATIVE
+
+Psychology has no data on a 500-year life. People adapt to almost anything (Brickman et al., 1978), which is reassuring. But nobody knows how loss, boredom, and memory stack up across that much time.
+
+Brickman P, et al. J Pers Soc Psychol, 1978.
+
+Does violence keep falling, or turn?
+LOW
+
+AI cuts both ways: it can catch threats in real time, and it can design new ones. Unlike accidents or disease, violence has an opponent who adapts, so its downward trend is the least safe to extrapolate.
+
+Pinker S. Better Angels of Our Nature, 2011 (contested in the AI context).
+
+Do people get more careful, or less?
+LOW
+
+When a life is worth centuries, caution is rational. But people spend safety gains on extra risk (the Peltzman effect). Whether long lives make people timid or reckless is an open question.
+
+Peltzman S. J Polit Econ, 1975.
+
+Where does suicide settle over the long run?
+SPECULATIVE
+
+Even a flat yearly rate accumulates over centuries. Whether it holds, climbs, or drops with better treatment and the end of age-related despair is the single most consequential unknown in the model.
+
+WHO. Suicide worldwide in 2019, 2021.
+
+What this model cannot tell you
+
+Whether, or when, aging will actually be solved.
+How society, behavior, and governance adapt to centuries-long lives.
+Whether a mind at century scale follows any pattern in today's data.
+
+A bounding analysis, not a prediction: it shows the range of outcomes and which inputs drive it.
+
+07
+So what would actually change?
+
+Take the model at its word for a moment and follow it out into the world. What opens up, what shifts, and what gets harder.
+
+Follows from the math
+Surviving early pays off later
+
+The people who make it through the risky early years gain the most, because the world keeps getting safer around them. Someone alive in 2040 who reaches 2200 collects 160 years of better medicine and safer tools. Getting to the future is the hard part. Staying there gets cheaper every decade.
+
+Reasonable guess
+Real mastery becomes possible
+
+The best people in any field peak in their forties and get two or three good decades. Remove the decline and you could spend fifty years on medicine, fifty on physics, a century on philosophy, and still have more time left than all of recorded history. The generalist gives way to the serial expert.
+
+Reasonable guess
+Risk gets repriced
+
+When a life stretches into centuries, life insurance stops making sense in its current form, and hazard pay would have to cover the loss of centuries, not decades. Many dangerous jobs become too expensive to staff with people, which speeds up automating them.
+
+Reasonable guess
+Old policy assumptions dissolve
+
+Social Security and Medicare were built for retirement at 65 followed by a decade or two of decline. The three-act shape of school, career, retirement stops fitting. Whole debates, from pensions to Medicare cost curves, rest on a population pyramid that would no longer exist.
+
+Reasonable guess
+Democracy assumes people leave
+
+Democratic systems quietly assume turnover. A senator elected in 2100 could still hold the seat in 2300 with two hundred years of accumulated power. And the old puzzle of who speaks for the unborn sharpens when today’s voters may personally live through choices made 500 years out.
+
+Reasonable guess
+Population math gets strange
+
+Almost nobody dying means the living pile up faster than they leave. A stable population would need births to fall close to zero. The question of who is allowed to have children, or whether that gets rationed, is one of the darker corners here, and it deserves a direct look.
+
+Follows from the math
+A new kind of inequality
+
+Today the rich-poor gap in US life expectancy is 10 to 14 years (Chetty et al., 2016). It is wider on other cuts, and widening: 20.4 years across the ten major US population groups in 2021, up from 12.6 in 2000 (Dwyer-Lindgren et al., 2024), and 8.5 years between adults with and without a degree, up from 2.6 in 1992 (Case & Deaton, 2025). Hand out solved aging unevenly and those years become centuries: the top group might have a 90% chance of never dying, the bottom 20 to 30%. That is not the old inequality made bigger. It is a different thing.
+
+Follows from the math
+Suicide becomes a leading cause of death
+
+Hold the US suicide rate flat and run it for a thousand years and the cumulative chance climbs to roughly 13%. Nothing about the yearly rate changes; the horizon does the work. Mental health care moves to the center of public health in a way it is not today.
+
+Speculative
+Does a very long life still mean something?
+
+Bernard Williams argued in 1973 that an endless life would go hollow, because the projects that shape a life need a finish line. Parfit and others push back: what we want can keep changing. Underneath sits a harder question: is a person who lives 500 years still the same person, and does meaning require that they be?
+
+Sources: Williams B. Problems of the Self, 1973. Chetty R et al. JAMA 2016. Dwyer-Lindgren L et al., Ten Americas, The Lancet 2024. Case A, Deaton A. Am J Epidemiol 2025. Parfit D. Reasons and Persons, 1984. WHO, Suicide worldwide in 2019, 2021.
+
+08
+
+One version of your long life
+
+The charts give you a distribution. A distribution is not a life. So here is a single story drawn from it: one plausible thread out of the thousands your numbers allow.
+
+Fill in the short form at the top for a story written from your own numbers. Or browse how it plays out for others below.
+
+Go to the form
+How it plays out for others
+
+The same technology lands very differently depending on who and where you are. Pick a life.
+
+Dmitri
+High-exposure life · Russia
+Yusuf
+Arrived too late · Egypt
+Amara
+First in line · New York City
+Kenji
+Odds that compound · Singapore
+Sofia
+A real chance · Portugal
+Liam
+Long but finite · New Zealand
+Priya
+Decades in the queue · India
+Grace
+The old rules held · Nigeria
+Ana
+An ordinary widening · Colombia
+
+CLOSE TO THE EDGE
+
+Dmitri · High-exposure life · Russia
+
+Every March, Dmitri sat in a reclining chair in a strip-mall clinic in Chelyabinsk while a technician threaded the reset line into a vein and watched thirty years of wear roll backward on the screen: fatty liver clearing, arteries opening, the small scar tissue of a hard life smoothing out over ninety minutes. The methylation readout ticked down to a biological twenty-nine. Then Dmitri drove straight to the depot and clocked in for the night haul, because the reset fixed the body and did exactly nothing about black ice on the mountain grade.
+
+The odds scrolled across the transit screens now, updated hourly by the city's models, blunt and without comfort. Solving aging deletes the slow death that waits at the end of a span. It leaves every fast one exactly where it was: the jackknife on the pass, the misjudged corner, the stranger outside the all-night depot with a grudge and a knife. Dmitri worked where all of those live, and knew it, and set the alarm for the next shift anyway.
+
+The winter of 2071 the depot buried four drivers, every one of them biologically thirty, every one gone in a single afternoon. Dmitri went to the services, ate the cold food, and was back on the road by Monday. A body that will never age is a strange chip to push across the table. Dmitri pushed it every night, slept fine, and could never quite explain why the wager felt worth it — only that a careful forever had never once tempted them.
+
+How long would you live?
+
+An exponential survival model with time-varying background mortality. Every assumption is sourced from peer-reviewed literature or government data and carries a confidence rating. A bounding analysis and scenario tool, not a prediction.
+
+Personalized projections are illustrative: country multipliers and access timelines are rough proxies. Nothing you enter leaves your browser.
+
+Key sources
+
+CDC NVSS 2024 · GBD 2019 · López-Otín et al., Cell 2023 · Macip et al., Cellular Reprogramming 2024 · de Grey, Ending Aging 2007 · Chetty et al., JAMA 2016 · Peltzman, JPE 1975 · Williams, Problems of the Self 1973 · Amodei, Machines of Loving Grace 2024.
+
